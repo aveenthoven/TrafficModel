@@ -14,3 +14,5 @@ class car(object):
     def __init__(self,location,time):
         self.location = location
         self.time = time
+    def timepass(self):
+        self.time+=1
