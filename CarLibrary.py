@@ -16,3 +16,6 @@ class car(object):
         self.time = time
     def timepass(self):
         self.time+=1
+    def begintravel():
+        tt = (z['a'][1][0]*0.6)*(1+alpha*(N/C)**beta)
+        self.remainingtime=5
