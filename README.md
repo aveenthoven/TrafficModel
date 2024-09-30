@@ -8,14 +8,36 @@ The animation was made with the mideterm-2citymodel_animation notebook culminati
 
 
 
-<B> Dependencies </B>
+## Dependencies
 
-Animation:
-Geopandas
-Pandas
-Matplotlib
+**Animation:**
+
+Geopandas,
+Pandas,
+Matplotlib,
 Numpy
 
-Statistics:
+And ffmpeg
+
+**Statistics:**
+
+Geopandas,
+Pandas,
+Matplotlib,
+Numpy,
+CSV,
+Scipy,
+
+**Friesland model:**
+
+Geopandas,
+Pandas,
+Matplotlib,
+Numpy,
+momepy,
+cityseer-api
+
+
+
 
 
