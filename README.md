@@ -17,7 +17,7 @@ Pandas,
 Matplotlib,
 Numpy
 
-And ffmpeg
+And ffmpeg for saving the animation.
 
 **Statistics:**
 
