@@ -29,12 +29,14 @@ Scipy,
 
 **Friesland model:**
 
-Geopandas,
-Pandas,
-Matplotlib,
-Numpy,
-momepy,
-cityseer-api
+* Numpy
+* Matplotlib
+* Geopandas
+* Contextily
+* Momepy
+* Networkx
+* shapely
+* cityseer
 
 
 
