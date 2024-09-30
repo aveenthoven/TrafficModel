@@ -21,7 +21,6 @@ And ffmpeg for saving the animation.
 
 **Statistics:**
 
-Geopandas,
 Pandas,
 Matplotlib,
 Numpy,
