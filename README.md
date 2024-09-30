@@ -32,8 +32,6 @@ And ffmpeg for saving the animation.
 * Networkx
 * shapely
 * cityseer
-* 
-
 
 
 
