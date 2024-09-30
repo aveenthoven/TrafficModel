@@ -33,6 +33,6 @@ And ffmpeg for saving the animation.
 * shapely
 * cityseer
 
-[friesland](https://raw.githubusercontent.com/aveenthoven/TrafficModel/refs/heads/main/FrieslandModel/friesland_finalnetwork.png)
+![friesland](https://raw.githubusercontent.com/aveenthoven/TrafficModel/refs/heads/main/FrieslandModel/friesland_finalnetwork.png)
 
 
